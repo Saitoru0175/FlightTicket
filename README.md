@@ -3,8 +3,8 @@
 
 ### My member
 Lớp : 20DTHB1
-2011063668 - Lê Văn Khang
-1811063566 - Phan Phước Trung
+2011063668 - Lê Văn Khang\
+1811063566 - Phan Phước Trung\
 2011062828 - Lê Thị Thúy Vy
 
 ### My Tech Stack
