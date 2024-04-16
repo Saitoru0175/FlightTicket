@@ -2,7 +2,7 @@
 ![Flight](https://www.shutterstock.com/image-vector/realistic-vector-banner-cheap-flights-260nw-1185708886.jpg)
 
 ### My member
-Lớp : 20DTHB1
+Lớp : 20DTHB1\
 2011063668 - Lê Văn Khang\
 1811063566 - Phan Phước Trung\
 2011062828 - Lê Thị Thúy Vy
@@ -12,3 +12,6 @@ Lớp : 20DTHB1
 
 ### My tool
 ![Android Studio](https://cdn.sforum.vn/sforum/wp-content/uploads/2021/12/android-studio.png)
+
+### My Design
+![Figma](https://topdev.vn/blog/wp-content/uploads/2023/04/Figma.jpg)
