@@ -17,7 +17,6 @@ Lớp : 20DTHB1\
 ![Figma](https://topdev.vn/blog/wp-content/uploads/2023/04/Figma.jpg)
 
 ### Quản Lý 
-![image](https://github.com/Saitoru0175/FlightTicket/assets/113884459/95b66c0e-1a40-4ec7-bf98-59fbd4883d10)](https://it.wustl.edu/app/uploads/2023/04/Jira-Card-Header-2.png)
-
+![image](https://github.com/Saitoru0175/FlightTicket/assets/113884459/95b66c0e-1a40-4ec7-bf98-59fbd4883d10)
 ### Source
 ![Github](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
