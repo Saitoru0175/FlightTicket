@@ -8,7 +8,7 @@ Lớp : 20DTHB1
 2011062828 - Lê Thị Thúy Vy
 
 ### My Tech Stack
-![Java]([http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff](https://tuyendung.kfcvietnam.com.vn/Data/Sites/1/media/blog/java-la-gi.jpg))
+![Java](https://tuyendung.kfcvietnam.com.vn/Data/Sites/1/media/blog/java-la-gi.jpg)
 
 ### My tool
 ![Android Studio](https://cdn.sforum.vn/sforum/wp-content/uploads/2021/12/android-studio.png)
