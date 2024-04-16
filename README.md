@@ -1,6 +1,5 @@
-## Hi I'm Gaboso :fox_face:
-
-![Gaboso]([https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso"](https://www.google.com/imgres?q=flight%20ticket%20banner&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Frealistic-vector-banner-cheap-flights-260nw-1185708886.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Frealistic-vector-banner-cheap-flights-business-1336703963&docid=Snn0LV4ylEp1LM&tbnid=Ad4o8y38ieWMNM&vet=12ahUKEwjI8a_nvsWFAxV8xTgGHRLcAKcQM3oECBUQAA..i&w=619&h=280&hcb=2&ved=2ahUKEwjI8a_nvsWFAxV8xTgGHRLcAKcQM3oECBUQAA))
+## Xin Chào Đây là Nhóm 5 đề tài App đặt vé máy bay
+(https://www.shutterstock.com/image-vector/realistic-vector-banner-cheap-flights-260nw-1185708886.jpg)
 
 :computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
